@@ -3,7 +3,7 @@
 ### All data and code of this project will be open source after the paper is accepted.
 
 ## Data1: GCNC 2025
-### Some sample samples can be obtained from this [Link](https://drive.google.com/drive/folders/15jBTXuG8FpnnN6I_ZnZGIgYwzk7dJhRC?usp=sharing).
+### Some examples can be obtained from this [Link](https://drive.google.com/drive/folders/15jBTXuG8FpnnN6I_ZnZGIgYwzk7dJhRC?usp=sharing).
 
 
 ![Data](./imgs/data.png)
